@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 
-Pronouns: she/her
+**Pronouns:** she/her
 - 🎓 CS & Statistics undergrad at the University of Toronto
 - 💻 Interested in full-stack development, data science, and AI/ML
 - 🧩 Currently building fun mini-projects like **Cafe Finder**
 - 📊 Enjoy working with data, experiments, and clean visualizations
-- 🚗 Low-key car and motorcycle nerd, passionate about gym and recently super into line-dancing! 
+- 🚗 Low-key car & motorcycle nerd, gym lover, and recently obsessed with line-dancing 
 - 🤝 Always open to collaborate on cool projects or chat about tech, stats, or design!
 
 ## Tech Stack
